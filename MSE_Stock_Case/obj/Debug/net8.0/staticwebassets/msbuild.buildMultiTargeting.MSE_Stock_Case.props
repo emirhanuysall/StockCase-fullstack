@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MSE_Stock_Case.props" />
+</Project>
