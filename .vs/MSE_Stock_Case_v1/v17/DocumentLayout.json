@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\MSE_Stock_Case_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\MSE_Stock_Case_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Cache\\RedisCacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\CacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Cache\\CacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\InvoiceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Controllers\\InvoiceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CompanyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Controllers\\CompanyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\InvoiceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\DTOs\\InvoiceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CustomerDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\DTOs\\CustomerDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CompanyDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\DTOs\\CompanyDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Logging\\SerilogLogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Logging\\SerilogLogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T08:50:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "backend\\Cache\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs",
+              "RelativeToolTip": "backend\\Cache\\RedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:32:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\CacheService.cs",
+              "RelativeDocumentMoniker": "backend\\Cache\\CacheService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\CacheService.cs",
+              "RelativeToolTip": "backend\\Cache\\CacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:32:00.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "backend\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:31:58.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:31:57.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:31:55.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\InvoiceDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\InvoiceDTO.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\InvoiceDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\InvoiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:31:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:31:53.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CompanyDTO.cs",
+              "RelativeToolTip": "backend\\DTOs\\CompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:31:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:28:55.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SerilogLogging.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Logging\\SerilogLogging.cs",
+              "RelativeDocumentMoniker": "backend\\Logging\\SerilogLogging.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Logging\\SerilogLogging.cs",
+              "RelativeToolTip": "backend\\Logging\\SerilogLogging.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:26:34.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSE_Stock_Case_v1.csproj",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\MSE_Stock_Case_v1.csproj",
+              "RelativeDocumentMoniker": "backend\\MSE_Stock_Case_v1.csproj",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\MSE_Stock_Case_v1.csproj",
+              "RelativeToolTip": "backend\\MSE_Stock_Case_v1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T08:22:52.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@MSE_Stock_Case_v1_HostAddress = http://localhost:5036
+
+GET {{MSE_Stock_Case_v1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
