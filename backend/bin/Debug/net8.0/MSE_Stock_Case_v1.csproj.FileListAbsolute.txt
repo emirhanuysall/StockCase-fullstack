@@ -1,0 +1,7 @@
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.csproj.AssemblyReference.cache
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.AssemblyInfoInputs.cache
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.AssemblyInfo.cs
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.MvcApplicationPartsAssemblyInfo.cache

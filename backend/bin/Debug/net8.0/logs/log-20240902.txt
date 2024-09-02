@@ -1,0 +1,36 @@
+2024-09-02 11:30:23.849 +03:00 [INF] Now listening on: http://localhost:5000
+2024-09-02 11:30:23.918 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-02 11:30:23.920 +03:00 [INF] Hosting environment: Production
+2024-09-02 11:30:23.922 +03:00 [INF] Content root path: C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\bin\Debug\net8.0
+2024-09-02 11:35:13.079 +03:00 [INF] Now listening on: http://localhost:5000
+2024-09-02 11:35:13.144 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-02 11:35:13.147 +03:00 [INF] Hosting environment: Production
+2024-09-02 11:35:13.154 +03:00 [INF] Content root path: C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\bin\Debug\net8.0
+2024-09-02 11:35:21.868 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2024-09-02 11:35:21.910 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-02 11:35:21.961 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 101.6749ms
+2024-09-02 11:35:21.972 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2024-09-02 11:35:51.295 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2024-09-02 11:35:51.302 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 7.8964ms
+2024-09-02 11:35:51.310 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2024-09-02 11:36:10.978 +03:00 [INF] Now listening on: http://localhost:5000
+2024-09-02 11:36:11.025 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-02 11:36:11.027 +03:00 [INF] Hosting environment: Production
+2024-09-02 11:36:11.029 +03:00 [INF] Content root path: C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\bin\Debug\net8.0
+2024-09-02 11:36:40.396 +03:00 [INF] Now listening on: http://localhost:5000
+2024-09-02 11:36:40.473 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-02 11:36:40.476 +03:00 [INF] Hosting environment: Production
+2024-09-02 11:36:40.477 +03:00 [INF] Content root path: C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\bin\Debug\net8.0
+2024-09-02 11:37:08.660 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2024-09-02 11:37:08.698 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-02 11:37:08.708 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 54.4314ms
+2024-09-02 11:37:08.719 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2024-09-02 11:37:33.371 +03:00 [INF] Now listening on: http://localhost:5000
+2024-09-02 11:37:33.404 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-02 11:37:33.407 +03:00 [INF] Hosting environment: Production
+2024-09-02 11:37:33.408 +03:00 [INF] Content root path: C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\bin\Debug\net8.0
+2024-09-02 11:38:00.894 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2024-09-02 11:38:00.932 +03:00 [WRN] Failed to determine the https port for redirect.
+2024-09-02 11:38:00.937 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 44.5425ms
+2024-09-02 11:38:00.954 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2024-09-02 11:44:50.299 +03:00 [WRN] The WebRootPath was not found: C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\bin\Debug\net8.0\wwwroot. Static files may be unavailable.

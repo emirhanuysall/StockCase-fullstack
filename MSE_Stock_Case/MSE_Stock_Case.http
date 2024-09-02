@@ -1,6 +1,0 @@
-@MSE_Stock_Case_HostAddress = http://localhost:5090
-
-GET {{MSE_Stock_Case_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

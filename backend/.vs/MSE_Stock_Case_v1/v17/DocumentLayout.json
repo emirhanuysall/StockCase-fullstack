@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\cache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:cache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "Cache\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs",
+              "RelativeToolTip": "Cache\\RedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:56:10.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:53:26.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
