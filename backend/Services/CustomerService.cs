@@ -48,9 +48,9 @@ namespace Backend.Services
         {
             var customer = _context.Customers.Find(id);
             if (customer == null) return false;
-
-            _context.Customers.Remove(customer);
-            _context.SaveChanges();
+             
+             _context.Customers.Remove(customer);
+             _context.SaveChanges();
 
             return true;
         }

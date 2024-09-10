@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSE_Stock_Case_v1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+277cd75167c7d1eb392b60ac7b9df8b1e5073786")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSE_Stock_Case_v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSE_Stock_Case_v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

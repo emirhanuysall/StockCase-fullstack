@@ -11,13 +11,12 @@ namespace Backend.Cache
         private readonly IDatabase _database;
 
         public RedisCacheService(string connectionString)
-        {
+         {
             var options = ConfigurationOptions.Parse(connectionString);
             var connection = ConnectionMultiplexer.Connect(options);
             _database = connection.GetDatabase();
         }
-
-        // IDistributedCache arayüzündeki metodların implementasyonları
+        
         public byte[] Get(string key)
         {
             return _database.StringGet(key);
@@ -43,7 +42,7 @@ namespace Backend.Cache
         {
             // Implement refresh logic if necessary
         }
-
+         
         public Task RefreshAsync(string key, CancellationToken token = default)
         {
             Refresh(key);
