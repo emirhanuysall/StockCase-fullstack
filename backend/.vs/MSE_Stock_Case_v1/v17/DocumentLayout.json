@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\cache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:cache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\cache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:cache\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\services\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:services\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|c:\\users\\emirhan uysal\\source\\repos\\mse_stock_case_v1\\backend\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57917E5-C7F9-455D-A769-E32FBB7E6FCB}|MSE_Stock_Case_v1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +66,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CompanyDTO.cs",
+              "RelativeToolTip": "DTOs\\CompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:57:37.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:57:34.811Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:53:32.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T06:27:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Services\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "Services\\IInvoiceService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Services\\IInvoiceService.cs",
+              "RelativeToolTip": "Services\\IInvoiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:43:22.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:43:17.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:41:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:40:59.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:52:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:52:36.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RedisCacheService.cs",
               "DocumentMoniker": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs",
               "RelativeDocumentMoniker": "Cache\\RedisCacheService.cs",
               "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Cache\\RedisCacheService.cs",
               "RelativeToolTip": "Cache\\RedisCacheService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwBMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T08:56:10.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T08:56:10.322Z"
             },
             {
               "$type": "Document",
@@ -45,9 +205,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Emirhan Uysal\\source\\repos\\MSE_Stock_Case_v1\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAhwBQAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T08:53:26.322Z"
+              "WhenOpened": "2024-09-02T08:53:26.322Z",
+              "EditorCaption": ""
             }
           ]
         }

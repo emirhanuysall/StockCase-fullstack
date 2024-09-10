@@ -150,3 +150,4 @@ C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\r
 C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.pdb
 C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.genruntimeconfig.cache
 C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\ref\MSE_Stock_Case_v1.dll
+C:\Users\Emirhan Uysal\source\repos\MSE_Stock_Case_v1\backend\obj\Debug\net8.0\MSE_Stock_Case_v1.sourcelink.json
